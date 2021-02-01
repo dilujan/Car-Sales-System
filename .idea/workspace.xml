@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b46d646a-eb06-4c4f-aa7e-fd96fcaea5b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kjNIPdyTBlr0h9mkyIdzKZaEJB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ct-2016-012/CT-2016-012/CarSalesSystem1.3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Model" />
+      <recent name="$PROJECT_DIR$/POJO" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/POJO" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.LoginUI">
+    <configuration name="LoginUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CarSalesSystem1.3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UI/LoginUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SellerDAO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CarSalesSystem1.3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model/SellerDAO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SoldCarUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CarSalesSystem1.3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UI/SoldCarUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CarSalesSystem1.3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CarSalesSystem1.3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.LoginUI" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.SellerDAO" />
+        <item itemvalue="Python.SoldCarUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b46d646a-eb06-4c4f-aa7e-fd96fcaea5b2" name="Default Changelist" comment="" />
+      <created>1606209959191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606209959191</updated>
+      <workItem from="1606209964814" duration="3471000" />
+      <workItem from="1606213462518" duration="507000" />
+      <workItem from="1606214350387" duration="13466000" />
+      <workItem from="1606232844458" duration="11141000" />
+      <workItem from="1606285917802" duration="6800000" />
+      <workItem from="1606297025337" duration="26823000" />
+      <workItem from="1606379761709" duration="12595000" />
+      <workItem from="1606447437804" duration="18976000" />
+      <workItem from="1606480013231" duration="5094000" />
+      <workItem from="1606536978696" duration="23428000" />
+      <workItem from="1606615389418" duration="13835000" />
+      <workItem from="1606646795077" duration="3633000" />
+      <workItem from="1606659524991" duration="15200000" />
+      <workItem from="1606719722875" duration="3420000" />
+      <workItem from="1606729053606" duration="7366000" />
+      <workItem from="1606801425518" duration="20984000" />
+      <workItem from="1606877077234" duration="25761000" />
+      <workItem from="1606934934551" duration="3070000" />
+      <workItem from="1606980169086" duration="5906000" />
+      <workItem from="1607054522165" duration="12138000" />
+      <workItem from="1607076231913" duration="38000" />
+      <workItem from="1607079465928" duration="26000" />
+      <workItem from="1607079638123" duration="6000" />
+      <workItem from="1607087678937" duration="928000" />
+      <workItem from="1607089160208" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="27" width="800" height="673" key="#SQL_Dialects" timestamp="1606449273277">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state x="278" y="27" width="800" height="673" key="#SQL_Dialects/0.27.1366.673@0.27.1366.673" timestamp="1606449273277" />
+    <state x="278" y="27" width="800" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606297054941">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state x="278" y="27" width="800" height="673" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.673@0.27.1366.673" timestamp="1606297054941" />
+    <state x="491" y="82" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1606812470162">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state x="491" y="82" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1366.673@0.27.1366.673" timestamp="1606812470162" />
+    <state x="142" y="27" width="1063" height="673" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606537316442">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state x="142" y="27" width="1063" height="673" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.673@0.27.1366.673" timestamp="1606537316442" />
+    <state x="466" y="121" width="424" height="491" key="FileChooserDialogImpl" timestamp="1607089196161">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state x="466" y="121" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.673@0.27.1366.673" timestamp="1607089196161" />
+    <state width="1320" height="190" key="GridCell.Tab.0.bottom" timestamp="1607088614059">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state width="1320" height="190" key="GridCell.Tab.0.bottom/0.27.1366.673@0.27.1366.673" timestamp="1607088614059" />
+    <state width="1320" height="190" key="GridCell.Tab.0.center" timestamp="1607088614057">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state width="1320" height="190" key="GridCell.Tab.0.center/0.27.1366.673@0.27.1366.673" timestamp="1607088614057" />
+    <state width="1320" height="190" key="GridCell.Tab.0.left" timestamp="1607088614056">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state width="1320" height="190" key="GridCell.Tab.0.left/0.27.1366.673@0.27.1366.673" timestamp="1607088614056" />
+    <state width="1320" height="190" key="GridCell.Tab.0.right" timestamp="1607088614058">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state width="1320" height="190" key="GridCell.Tab.0.right/0.27.1366.673@0.27.1366.673" timestamp="1607088614058" />
+    <state width="1320" height="188" key="GridCell.Tab.1.bottom" timestamp="1606232822950">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state width="1320" height="188" key="GridCell.Tab.1.bottom/0.27.1366.673@0.27.1366.673" timestamp="1606232822950" />
+    <state width="1320" height="188" key="GridCell.Tab.1.center" timestamp="1606232822950">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state width="1320" height="188" key="GridCell.Tab.1.center/0.27.1366.673@0.27.1366.673" timestamp="1606232822950" />
+    <state width="1320" height="188" key="GridCell.Tab.1.left" timestamp="1606232822950">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state width="1320" height="188" key="GridCell.Tab.1.left/0.27.1366.673@0.27.1366.673" timestamp="1606232822950" />
+    <state width="1320" height="188" key="GridCell.Tab.1.right" timestamp="1606232822950">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state width="1320" height="188" key="GridCell.Tab.1.right/0.27.1366.673@0.27.1366.673" timestamp="1606232822950" />
+    <state x="339" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1607089160222">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state x="339" y="191" key="com.intellij.ide.util.TipDialog/0.27.1366.673@0.27.1366.673" timestamp="1607089160222" />
+    <state x="687" y="27" width="672" height="671" key="search.everywhere.popup" timestamp="1607066839713">
+      <screen x="0" y="27" width="1366" height="673" />
+    </state>
+    <state x="687" y="27" width="672" height="671" key="search.everywhere.popup/0.27.1366.673@0.27.1366.673" timestamp="1607066839713" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$Staff.coverage" NAME="Staff Coverage Results" MODIFIED="1606457619590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Controller" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$SoldCarUI.coverage" NAME="SoldCarUI Coverage Results" MODIFIED="1606927006087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$test.coverage" NAME="test Coverage Results" MODIFIED="1607057013488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$CarModel.coverage" NAME="CarModelUI Coverage Results" MODIFIED="1606319790415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$CarModelUI.coverage" NAME="CarModelUI Coverage Results" MODIFIED="1606485822128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$SearchCar.coverage" NAME="SearchCar Coverage Results" MODIFIED="1606627754125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$main.coverage" NAME="main Coverage Results" MODIFIED="1607023022967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$Manufacture.coverage" NAME="Manufacture Coverage Results" MODIFIED="1606320302539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POJO" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$CarUI.coverage" NAME="CarUI Coverage Results" MODIFIED="1606571476835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$OfficeStaff.coverage" NAME="OfficeStaff Coverage Results" MODIFIED="1606906905364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Controller" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$LoginUI.coverage" NAME="LoginUI Coverage Results" MODIFIED="1607088574387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$UpgradeUI.coverage" NAME="UpgradeUI Coverage Results" MODIFIED="1606467225629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$SellerDAO.coverage" NAME="SellerDAO Coverage Results" MODIFIED="1606934621638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$DeleteCarUI.coverage" NAME="DeleteCarUI Coverage Results" MODIFIED="1606472619049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$OfficeStaffDao.coverage" NAME="OfficeStaffDao Coverage Results" MODIFIED="1606621378339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$Seller.coverage" NAME="Seller Coverage Results" MODIFIED="1606663662047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Controller" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$SellerDashboard.coverage" NAME="SellerDashboard Coverage Results" MODIFIED="1606814464802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UI" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$LoginController.coverage" NAME="LoginController Coverage Results" MODIFIED="1606226012961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Controller" />
+    <SUITE FILE_PATH="coverage/CarSalesSystem1_3$Model.coverage" NAME="Model Coverage Results" MODIFIED="1606465146321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+  </component>
+</project>

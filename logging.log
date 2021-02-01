@@ -1,0 +1,18 @@
+2020-12-04 18:59:43,646 - INFO -Connect the database successfully to fetch the user information
+2020-12-04 18:59:43,647 - INFO -Successfully fetched the data from user table
+2020-12-04 18:59:43,648 - INFO -Close the database successfully
+2020-12-04 18:59:46,090 - INFO -Connect the database successfully for fetch available car
+2020-12-04 18:59:46,091 - INFO -Successfully fetched the data from car table
+2020-12-04 18:59:46,092 - INFO -Close the database successfully
+2020-12-04 18:59:51,908 - INFO -Connect the database successfully for fetch available car
+2020-12-04 18:59:51,909 - INFO -Successfully fetched the data from car table
+2020-12-04 18:59:51,909 - INFO -Close the database successfully
+2020-12-04 18:59:52,738 - INFO -Connect the database successfully for fetch the car data
+2020-12-04 18:59:52,740 - INFO -Fetch the car data successfully
+2020-12-04 18:59:52,741 - INFO -Close the database successfully
+2020-12-04 18:59:56,223 - INFO -Connect the database successfully for fetch the car's upgrade price
+2020-12-04 18:59:56,224 - INFO -Fetch the sum of price successfully
+2020-12-04 18:59:56,224 - INFO -Close the database successfully
+2020-12-04 18:59:56,225 - INFO -Connect the database successfully for fetch the car's model price
+2020-12-04 18:59:56,226 - INFO -Fetch the car price successfully
+2020-12-04 18:59:56,226 - INFO -Close the database successfully
